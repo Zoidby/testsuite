@@ -6,6 +6,7 @@ import org.jboss.hal.testsuite.page.ConfigPage;
 /**
  * @author mkrajcov <mkrajcov@redhat.com>
  */
-@Location("#modcluster")
-public class ModClusterPage extends ConfigPage {
+@Location("#transactions")
+public class TransactionsPage extends ConfigPage {
+
 }
